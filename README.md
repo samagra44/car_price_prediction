@@ -18,9 +18,9 @@ The machine learning model utilized for predicting car prices is the Random Fore
 
 To enhance the model's performance, RandomizedSearchCV is employed for hyperparameter tuning. This process involves systematically searching through a range of hyperparameter values to find the combination that maximizes predictive accuracy. The tuned model demonstrates improved results, as indicated by metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).The achieved performance metrics are as follows:
 
-MAE: 0.874067912087912
-MSE: 3.969051762230773
-RMSE: 1.9922479168594387
+MAE: 0.874067912087912    
+MSE: 3.969051762230773    
+RMSE: 1.9922479168594387    
 
 #### Feature Importance
 
