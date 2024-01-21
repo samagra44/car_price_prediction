@@ -39,3 +39,8 @@ The user interface is designed to be intuitive and easy to navigate. Users are p
 ### Conclusion
 
 The Car Price Prediction Web App combines the power of machine learning with a user-friendly web interface to provide a valuable tool for car buyers and sellers. The project encompasses various aspects, including model training, hyperparameter tuning, feature importance analysis, and web application development, resulting in an integrated solution for estimating car prices. Users can leverage this application to make informed decisions in the car-buying and selling process.
+
+# Output:
+
+![Document - Brave 2024-01-21 12-59-14](https://github.com/samagra44/car_price_prediction/assets/77968722/52ac2e7c-47ee-4425-8246-854840352f77)
+
