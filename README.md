@@ -26,6 +26,15 @@ RMSE: 1.9922479168594387
 
 The ExtraTree Regressor is employed to identify the most influential features in determining car prices. This analysis provides valuable insights into the factors that significantly impact the selling price of cars.
 
+![pic3](https://github.com/samagra44/car_price_prediction/assets/77968722/49240d35-1103-4e7a-b1e5-cded5efc7cde)
+
+![pic1](https://github.com/samagra44/car_price_prediction/assets/77968722/bfb371db-6d72-49ee-a0a5-20b7a3cc7b84)
+
+![pic2](https://github.com/samagra44/car_price_prediction/assets/77968722/21282ebb-b075-4d89-9d48-c68a3e884d0d)
+
+![pic4](https://github.com/samagra44/car_price_prediction/assets/77968722/8ac4c058-aa72-4303-8a52-571e0f6e5140)
+
+
 ### Web Application
 
 #### Flask Framework
